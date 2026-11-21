@@ -1,4 +1,4 @@
-const CACHE = 'trip-split-v2';
+const CACHE = 'trip-split-v3';
 const FILES = ['./', './index.html', './manifest.json', './icon-192.png', './icon-512.png'];
 
 self.addEventListener('install', e => {
